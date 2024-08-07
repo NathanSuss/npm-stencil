@@ -9,6 +9,7 @@ export const config: Config = {
     },
     {
       type: 'dist-custom-elements',
+      generateTypeDeclarations: true,
       customElementsExportBehavior: 'auto-define-custom-elements',
       externalRuntime: false,
     },

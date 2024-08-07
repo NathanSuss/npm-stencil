@@ -1,6 +1,7 @@
 {
-  "name": "npm-stencil",
+  "name": "@nathan-suss/npm-stencil",
   "version": "0.0.1",
+  "author": "Nathan Sussman",
   "description": "Stencil Component Starter",
   "main": "dist/index.cjs.js",
   "module": "dist/index.js",
